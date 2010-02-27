@@ -286,4 +286,8 @@ Y.extend(tmpPanel, Y.Overlay, {
 Y.tmpPanel = tmpPanel;
 
 
+<<<<<<< HEAD:build/gallery-tmp-panel/gallery-tmp-panel-debug.js
 }, '@VERSION@' ,{requires:['overlay']});
+=======
+}, 'gallery-2010.02.22-22' ,{requires:['overlay']});
+>>>>>>> upstream/master:build/gallery-tmp-panel/gallery-tmp-panel-debug.js
