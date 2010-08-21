@@ -410,4 +410,8 @@ Y.extend(SlidingSideBar, Y.Overlay, {
 Y.SlidingSideBar = SlidingSideBar;
 
 
+<<<<<<< HEAD
 }, '@VERSION@' ,{requires:['overlay','anim-easing']});
+=======
+}, 'gallery-2010.05.21-18-16' ,{requires:['overlay','anim-easing']});
+>>>>>>> upstream/master
